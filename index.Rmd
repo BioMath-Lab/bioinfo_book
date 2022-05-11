@@ -1,9 +1,9 @@
 --- 
 title: "Biodiversity Informatics"
-author: "Sandra MacFadyen"
+author: "Sandra MacFadyen and Cang Hui"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Biodiversity Informatics
 
